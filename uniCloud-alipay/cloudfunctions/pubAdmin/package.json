@@ -1,0 +1,7 @@
+{
+  "name": "pubAdmin",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
