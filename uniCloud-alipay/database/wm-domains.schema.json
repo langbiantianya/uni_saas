@@ -1,0 +1,28 @@
+{
+    "bsonType": "object",
+    "description": "casbin规则表",
+    "required": [],
+    "properties": {
+        "_id": {
+            "description": "ID，系统自动生成"
+        },
+        "create_date": {
+            "description": ""
+        },
+        "update_date": {
+            "description": ""
+        },
+        "domains_id": {
+            "description": "域id"
+        },
+        "domains_name": {
+            "description": "域名称"
+        },
+        "status":{
+            "description": "域状态"
+        },
+        "comment": {
+            "description": "备注"
+        }
+    }
+}

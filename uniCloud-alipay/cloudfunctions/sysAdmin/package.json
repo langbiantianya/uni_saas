@@ -1,7 +1,7 @@
 {
   "name": "sysAdmin",
-  "dependencies": {},
-  "extensions": {
-    "uni-cloud-jql": {}
-  }
+  "dependencies": {
+    "wmSdk": "file:../common/wmSdk"
+  },
+  "extensions": {}
 }

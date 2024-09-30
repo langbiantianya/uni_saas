@@ -1,0 +1,31 @@
+{
+    "bsonType": "object",
+    "description": "casbin规则表",
+    "required": [],
+    "properties": {
+        "_id": {
+            "description": "ID，系统自动生成"
+        },
+        "ptype": {
+            "description": ""
+        },
+        "v0": {
+            "description": ""
+        },
+        "v1": {
+            "description": ""
+        },
+        "v2": {
+            "description": ""
+        },
+        "v3": {
+            "description": ""
+        },
+        "v4": {
+            "description": ""
+        },
+        "v5": {
+            "description": ""
+        }
+    }
+}
